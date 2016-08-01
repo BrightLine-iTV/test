@@ -1,0 +1,819 @@
+{
+	"contentDate": "\/Date(1470072159122)\/",
+	"totalCount": 7,
+	"exception": "",
+	"results": [{
+		"deal": "1\u00a2",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": null,
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": true,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_3_cmb.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $2.48 each",
+		"productDescription": null,
+		"title": "Office Depot\u00ae Brand Composition Book, 1-subject",
+		"highPrice": null,
+		"onlineProductCode": null,
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "\u2022 Marble and Assorted",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 3845,
+			"name": "SUPPLIES-OTHER"
+		}, {
+			"id": 4331,
+			"name": "Office Depot Brightline Feature Item"
+		}, {
+			"id": 4345,
+			"name": "Eyeview Supplies"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "While supplies last. No rainchecks. Minimum purchase is before taxes. Limit 3 per household\/business.",
+		"originalDeal": "Reg. $2.49",
+		"brands": [{
+			"id": -2099997296,
+			"name": "Office Depot\u00ae"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": null,
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 0.01,
+		"departments": [{
+			"id": 5210634,
+			"name": "School Supplies"
+		}],
+		"savingsValue": null,
+		"priceQualifier": "with $5 minimum purchase",
+		"id": -2030852891,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "$1 EACH",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": "314-417",
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": false,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_7_cmb.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $2.99",
+		"productDescription": null,
+		"title": "Ticonderoga\u00ae Pencils",
+		"highPrice": null,
+		"onlineProductCode": "314417",
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "\u2022 12-PK",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 3845,
+			"name": "SUPPLIES-OTHER"
+		}, {
+			"id": 3933,
+			"name": "Office Supplies"
+		}, {
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "Limit 3 per household\/business.",
+		"originalDeal": "Reg. $3.99",
+		"brands": [{
+			"id": -2099986180,
+			"name": "Ticonderoga"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": "<data>\r\n<![CDATA[\r\nItem&nbsp;#:314417\r\nManufacturer #:13812\r\nEco-conscious:Less Harsh Chemicals\r\nbrand name:Ticonderoga\r\nlead color:Black\r\nquantity:12\r\nbarrel color:Yellow\r\neraser included:yes\r\neco-label\/standard:AP Certified Non-toxic\r\npencil type:#2 soft\r\nmanufacturer:Dixon Ticonderoga Company\r\ngrip type:hexagonal\r\n]]>\r\n <\/data>",
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 1.0,
+		"departments": [{
+			"id": 5210637,
+			"name": "Writing"
+		}],
+		"savingsValue": null,
+		"priceQualifier": null,
+		"id": -2030852890,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "1\u00a2",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": "502-807",
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": true,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_2_cmb.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $2.18 each",
+		"productDescription": null,
+		"title": "Elmer's\u00ae Pourable School Glue, 4 Oz.",
+		"highPrice": null,
+		"onlineProductCode": "502807",
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": null,
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 3845,
+			"name": "SUPPLIES-OTHER"
+		}, {
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}, {
+			"id": 4345,
+			"name": "Eyeview Supplies"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "While supplies last. No rainchecks. Minimum purchase is before taxes. Limit 3 per household\/business.",
+		"originalDeal": "Reg. $2.19",
+		"brands": [{
+			"id": -2099999567,
+			"name": "Elmer's"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": "<data>\r\n<![CDATA[\r\nItem&nbsp;#:502807\r\nManufacturer #:E304\r\nEco-conscious:Less Harsh Chemicals\r\nbrand name:Elmer's\r\nglue color:Clear\r\ncontainer weight:4 oz\r\nquantity:1 item(s)\r\npermanent\/removable:permanent\r\neco-label\/standard:AP Certified Non-toxic\r\nwashable:yes\r\nmanufacturer:Elmer's Products, Inc.\r\n]]>\r\n <\/data>",
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 0.01,
+		"departments": [{
+			"id": 5210634,
+			"name": "School Supplies"
+		}],
+		"savingsValue": null,
+		"priceQualifier": "with $5 minimum purchase",
+		"id": -2030852893,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "$3.99",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": null,
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": false,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_12_cmb.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $14. LOWEST PRICE EVER!",
+		"productDescription": null,
+		"title": "SanDisk\u00ae Cruzer\/Edge\u2122 USB 2.0 Flash Drives",
+		"highPrice": null,
+		"onlineProductCode": null,
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "\u2022 16GB",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 4134,
+			"name": "RelatedItems_SourceCategory_3372"
+		}, {
+			"id": 4138,
+			"name": "RelatedItems_SourceCategory_3981"
+		}, {
+			"id": 4149,
+			"name": "RelatedItems_SourceCategory_866253"
+		}, {
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "Selection varies by location.",
+		"originalDeal": "Reg. $17.99",
+		"brands": [{
+			"id": -2099997130,
+			"name": "SanDisk"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": null,
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 3.99,
+		"departments": [{
+			"id": 5211007,
+			"name": "Flash Drives"
+		}],
+		"savingsValue": null,
+		"priceQualifier": null,
+		"id": -2030852873,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "25\u00a2",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": null,
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": false,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_4a.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $2.74",
+		"productDescription": null,
+		"title": "BIC\u00ae Round Stic Grip\u2122 Ballpoint Pens",
+		"highPrice": null,
+		"onlineProductCode": null,
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "\u2022 12-PK",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 3845,
+			"name": "SUPPLIES-OTHER"
+		}, {
+			"id": 3933,
+			"name": "Office Supplies"
+		}, {
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "Selection varies by location. Limit 3 per household\/business.",
+		"originalDeal": "Reg. $2.99",
+		"brands": [{
+			"id": -2099999848,
+			"name": "Bic"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": null,
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 0.25,
+		"departments": [{
+			"id": 5210637,
+			"name": "Writing"
+		}],
+		"savingsValue": null,
+		"priceQualifier": null,
+		"id": -2030852858,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "$399",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": null,
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": true,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_17_cmb.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $300",
+		"productDescription": null,
+		"title": "HP Laptop bundle",
+		"highPrice": null,
+		"onlineProductCode": null,
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "Includes:\r\n\u2022 HP 15.6\" Touchscreen Laptop with AMD A8 Processor (236-019) Model 15-af152nr\r\n\u2022 15.6\" touchscreen\r\n\u2022 8GB memory\r\n\u2022 1TB hard drive\r\n\u2022 Microsoft\u00ae Office 365\u2122 Personal 1-Year (pre-installed)\r\n\u2022 Logitech\u00ae M325 Wireless Mouse (604-687 or 282-127)\r\n\u2022 Basic PC Setup & Installation of McAfee\u00ae Antivirus Basic 1-Year (922-568)\r\n\u2022 Windows 10",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}, {
+			"id": 4346,
+			"name": "Eyeview Laptops"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": null,
+		"originalDeal": "Bundle Reg. $699.96",
+		"brands": [{
+			"id": -2099987297,
+			"name": "HP"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": null,
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 399.0,
+		"departments": [{
+			"id": 5210654,
+			"name": "Laptops"
+		}],
+		"savingsValue": null,
+		"priceQualifier": null,
+		"id": -2030852878,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}, {
+		"deal": "25\u00a2",
+		"languageID": 1,
+		"retailer": {
+			"id": 34
+		},
+		"retailerProductCode": "764-180",
+		"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+		"featured": false,
+		"images": [{
+			"large": false,
+			"imageURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailers\/officedepot\/160731_001_ap1_5a.jpg",
+			"imageHeight": 200,
+			"imageWidth": 200
+		}],
+		"previewPostStartDate": null,
+		"saleStartDate": "\/Date(1469941200000)\/",
+		"additionalDealInformation": "SAVE $3.74",
+		"productDescription": null,
+		"title": "Crayola\u00ae Broad Line Markers",
+		"highPrice": null,
+		"onlineProductCode": "764180",
+		"saleEndDateString": "Aug 06, 2016 12:00:00 AM",
+		"postStartDate": "\/Date(1469764800000)\/",
+		"universalProductCode": null,
+		"store": {
+			"logos": {
+				"pageLogoURL": null,
+				"adUnitLogoURL": null,
+				"logoURL": "http:\/\/akimages.shoplocal.com\/dyn_li\/200.0.90.0\/retailerlogos\/officedepot_120608.png"
+			},
+			"referenceNumber": "2459",
+			"address": {
+				"province": null,
+				"city": "Union",
+				"countryID": 1,
+				"dma": 501,
+				"line2": null,
+				"line1": "1701 Morris Ave",
+				"dmaName": "New York, NY",
+				"state": "NJ",
+				"postalCode": "07083"
+			},
+			"phone": {
+				"areaCode": "908",
+				"phoneNumber": "688-2397"
+			},
+			"id": 2502022
+		},
+		"buyOnlineLinkURL": null,
+		"pretailer": {
+			"id": -99860
+		},
+		"description": "\u2022 10-CT",
+		"previewPostEndDateString": null,
+		"tags": [{
+			"id": 3845,
+			"name": "SUPPLIES-OTHER"
+		}, {
+			"id": 3933,
+			"name": "Office Supplies"
+		}, {
+			"id": 4330,
+			"name": "Office Depot Brightline Front Page"
+		}],
+		"manufacturerProductCode": null,
+		"pages": [{
+			"code": "160731_001_AP1",
+			"displayNumber": "1",
+			"id": 5373281,
+			"order": 1
+		}],
+		"finePrint": "Limit 3 per household\/business.",
+		"originalDeal": "Reg. $3.99",
+		"brands": [{
+			"id": -2099998900,
+			"name": "Crayola"
+		}],
+		"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+		"postEndDate": "\/Date(1470542340000)\/",
+		"saleEndDate": "\/Date(1470459600000)\/",
+		"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+		"customProductDescription": "<data>\r\n<![CDATA[\r\nItem&nbsp;#:764180\r\nManufacturer #:58-7722\r\nEco-conscious:Less Harsh Chemicals\r\nbrand name:Crayola\r\nodorless:yes\r\npoint type:conical\r\nink color:black; blue; brown; gray; green; pink; purple; red; yellow\r\nquantity:10\r\neco-label\/standard:AP Certified Non-toxic\r\nwashable:no\r\nmanufacturer:Crayola\r\n]]>\r\n <\/data>",
+		"keyword": null,
+		"lowPrice": null,
+		"finalPrice": 0.25,
+		"departments": [{
+			"id": 5210637,
+			"name": "Writing"
+		}],
+		"savingsValue": null,
+		"priceQualifier": null,
+		"id": -2030852855,
+		"previewPostEndDate": null,
+		"promotion": {
+			"typeID": 1,
+			"childTypeID": 21,
+			"code": "OfficeDepot-160731",
+			"postEndDateString": "Aug 06, 2016 10:59:00 PM",
+			"previewPostEndDateString": null,
+			"title": "7\/31 Weekly Ad",
+			"postEndDate": "\/Date(1470542340000)\/",
+			"previewPostStartDateString": null,
+			"saleStartDateString": "Jul 31, 2016 12:00:00 AM",
+			"postStartDate": "\/Date(1469764800000)\/",
+			"postStartDateString": "Jul 28, 2016 11:00:00 PM",
+			"tag": "OfficeDepot-160731",
+			"saleEndDateString": "Aug 06, 2016 11:59:59 PM",
+			"previewPostStartDate": null,
+			"previewPostEndDate": null,
+			"saleStartDate": "\/Date(1469941200000)\/",
+			"identifier": "7\/31 Weekly Ad",
+			"id": 125359,
+			"saleEndDate": "\/Date(1470545999000)\/"
+		},
+		"previewPostStartDateString": null
+	}],
+	"contentDateString": "Aug 01, 2016 12:22:39 PM"
+}
